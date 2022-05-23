@@ -10,4 +10,5 @@
 7. Cell
 8. Agregué un cambio más
 9. picoro
-10. Cambios nuevos desde mi local
+10.1 Cambios nuevos desde mi local
+10.2 Cambio desde GitHub
