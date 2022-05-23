@@ -9,3 +9,4 @@
 6. Freezer
 7. Cell
 8. Agregué un cambio más
+9. picoro
