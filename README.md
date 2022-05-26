@@ -8,3 +8,7 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Git Hub
 Este es un mensaje actuliazado completamente desde GIT HUB
+
+
+# Cambios de otra persona
+Estos son cambios de otra persona xD
